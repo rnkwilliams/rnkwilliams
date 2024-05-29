@@ -35,7 +35,7 @@ Thanks for visiting! Feel free to explore my projects and connect with me. I'm a
 ### 👩🏾‍💻 Recent projects:
 
 - Cloud Resume Serverless CI/CD Website on AWS. [Link](https://github.com/rnkwilliams/aws-cloud-resume-challenge-frontend)
-- Deploy a 3-Tier Network VPC WordPress Website on AWS. [Link](https://github.com/rnkwilliams/host-a-static-wordpress-website-on-aws)
+- Deploy a 3-Tier Network VPC Application on AWS. [Link](https://github.com/rnkwilliams/host-a-static-wordpress-website-on-aws)
 - Deploy a Dynamic Web Application on AWS with Terraform, Docker, Amazon ECR, and ECS. [Link](https://github.com/rnkwilliams/rentzone-terraform-ecs-project)
 - Deploy a Dynamic Website on AWS with Terraform. [Link](https://github.com/rnkwilliams/terraform-projects)
 
